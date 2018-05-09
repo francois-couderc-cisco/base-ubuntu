@@ -8,4 +8,4 @@ RUN apt-get install -y apache2
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y php
 RUN apt-get install -y libapache2-mod-php
 RUN apt-get install -y curl
-
+RUN apt-get install -y dnsutils
