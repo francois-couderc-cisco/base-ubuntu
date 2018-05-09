@@ -7,3 +7,4 @@
 - php
 - libapache2-mod-php
 - curl
+- dnsutils
